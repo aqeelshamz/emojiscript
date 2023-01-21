@@ -4,7 +4,7 @@
  
 Use emojis instead of keywords and symbols 😁
  
-To use EmojiScript in your code, add this to the bottom of your `<body>` tag:
+To use EmojiScript in your code, add this to the bottom of your `<body>`:
 ```html
 <script src="emojiscript.js"></script>
 ```
