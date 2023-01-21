@@ -43,6 +43,7 @@ Example:
 Dictionary:
 ```json
 {
+  "⚡": ";",
   "😎": "const",
   "😇": "var",
   "😊": "let",
